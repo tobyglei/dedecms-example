@@ -1,0 +1,1 @@
+FROM chengxulvtu/dedecms:utf8_full_5.7
